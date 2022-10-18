@@ -1,8 +1,8 @@
 # durham-college
-Durham College assignments and projects
+Durham College Assignment and Projects
 
 # Assignment 5 - DATA 1202-02
-The goal of this Jupyter Notebook was to using the Youtube channel dataset provide an example in Python of how to answer the follow questions:
+The goal of this Jupyter Notebook was to use the Youtube channel dataset and provide an example in Python of how to answer the follow questions:
 1- Create a function to calculate the distribution of channeltype from the top 1000 records.
 2- Load only the top 1000 records of the original 4000 into a separate CSV file, and to a database table. 
 
